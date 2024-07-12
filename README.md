@@ -9,7 +9,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/arpitapodder6/admin_dasboard.git 
+ https://github.com/arpitapodder6/Groovify.git
 ```
 
 Go to the project directory
